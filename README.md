@@ -1,9 +1,6 @@
-Hi, I’m @JDSWAero
+Hi, I’m @JDSWAero, my pronouns are he/him.
 
-I am currently acquiring my bachelor's degree in engineering with a focus on aerospace: space systems design
-I’m interested in spacecraft design, space mission planning, robotics, machine learning, nuclear power
-I can be reached via email at jackwooldridge@cmail.carleton.ca
-My pronouns are he/him
+I am currently acquiring my bachelor's degree in engineering with a focus on aerospace: space systems design. I’m interested in spacecraft design, space mission planning, robotics, machine learning, nuclear power. I can be reached via email at jackwooldridge@cmail.carleton.ca.
 
 <!---
 JDSWAero/JDSWAero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
